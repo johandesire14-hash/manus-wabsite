@@ -492,6 +492,6 @@
 
 ## Sauvegarde GitHub externe
 
-- [ ] Vérifier le contenu du dépôt `manus-wabsite`
-- [ ] Préparer la copie du projet actuel sans inclure les secrets
-- [ ] Pousser la sauvegarde et confirmer le commit cible
+- [x] Vérifier le contenu du dépôt `manus-wabsite`
+- [x] Préparer la copie du projet actuel sans inclure les secrets
+- [x] Pousser la sauvegarde et confirmer le commit cible
